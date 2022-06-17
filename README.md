@@ -4,6 +4,8 @@
 
 ## Navigate to the root of the directory inside Terminal
 
-### ` cd /path/to/estilios `
+### Mac: ` cd /path/to/estilios ` 
+
+### Windows: ` cd C:\path\to\estilios `
 
 ##  run the command ` npx http-server ` inside the terminal
