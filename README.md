@@ -9,3 +9,5 @@
 ### Windows: ` cd C:\path\to\estilios `
 
 ##  run the command ` npx http-server ` inside the terminal
+
+## navigate to http://localhost:8080 in your browser
